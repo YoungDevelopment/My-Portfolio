@@ -3,6 +3,10 @@ import { styles } from "../styles";
 import { ComputersCanvas } from "./canvas";
 
 export default function Hero() {
+
+//hello
+
+
   return (
     <section className="relative w-full h-screen mx-auto">
       <div
@@ -27,6 +31,8 @@ export default function Hero() {
         </div>
       </div>
       <ComputersCanvas />
+
+
 
 
       <div className="absolute xs:hidden bottom-32 w-full flex justify-center items-center hidden sm:flex">
